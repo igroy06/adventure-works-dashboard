@@ -15,7 +15,7 @@ The data set comprises of five major subsets-
 2. The corresponding monthly revenue, orders, and returns are **$1.81M (+3.31% MoM), 2,146 (-0.88% MoM), 166 (+1.78% MoM)** respectively.
 3. - `Most ordered product type`- tyres and tubes.
    - `Most returned product type`- shorts.
-4. For the **17.4k** unique customer, the revenue per customer is **$1,431.**
+4. For the **17.4k** unique customers, the revenue per customer is **$1,431.**
 5. Orders by income level-
    - `Low income`: **41.57%** of total orders.
    - `Middle income`: **46.98%** of total orders.
@@ -27,5 +27,17 @@ The data set comprises of five major subsets-
 
 
 
-## Snapshots/Video 
+## Snapshots
+![Executive Dashboard](https://github.com/igroy06/adventure-works-dashboard/blob/main/exec_dashboard.png)
+
+
+![Map of Markets](https://github.com/igroy06/adventure-works-dashboard/blob/main/map.png)
+
+
+![Product Details](https://github.com/igroy06/adventure-works-dashboard/blob/main/product%20detail.png)
+
+
+![Customer Profile](https://github.com/igroy06/adventure-works-dashboard/blob/main/customer%20detail.png)
+
+
 
